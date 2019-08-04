@@ -1,11 +1,11 @@
 <p align="center">
   <div align="center">
    <img src="assets/gnl_graph_2.png" width="500px"</img><br>
-    <em>Whatever dies, really does not die...<em>
+    <em><i>Whatever dies, really does not die...</i><em>
   </div>
 </p>
 
-# Get_next_line
+# Get next line
 
 For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n'``` character from a file descriptor without knowing its size beforehand.. 
 
@@ -41,7 +41,5 @@ You can then return lines from an input file with:
 ```bash
 ./test_gnl ./filetests/<input_file>
 ```
+
 ![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/assets/test_gnl_run_command.png)
-
-
-
