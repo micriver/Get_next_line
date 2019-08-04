@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
    <img src="assets/gnl_graph_2.png" width="500px"</img><br>
-    <em><i>Whatever dies, really does not die...</i><em>
+    <em>Whatever dies, really does not die...<em>
   </div>
 </p>
 
@@ -41,5 +41,7 @@ You can then return lines from an input file with:
 ```bash
 ./test_gnl ./filetests/<input_file>
 ```
-
 ![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/assets/test_gnl_run_command.png)
+
+
+
