@@ -1,0 +1,27 @@
+#Executables
+*.out
+
+#Libraries
+*.a
+
+#Folders
+/includes/*
+/tests
+
+#Object Files
+*.o
+/objects
+
+#Mains
+*main.c
+main*.c
+
+#Misc files
+*.swp
+*.txt
+*.sh
+origattempt.c
+fdtest2.c
+.nfs*
+*.gch
+etests/
