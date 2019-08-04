@@ -13,7 +13,7 @@ I practiced working with dynamic memory allocation, commands such as ```malloc``
 After completion, I was able to add this function to my [Libft](https://github.com/micriver/Libft.git) for use in future projects.
 
 **Project Document:**
-[get_next_line.pdf](https://github.com/micriver/docs/get_next_line.en%20.pdf)
+[get_next_line.pdf](https://github.com/micriver/get_next_line/blob/master/docs/get_next_line.en.pdf)
 
 All functions were written according to 42's coding standard,
 [the Norm](https://github.com/micriver/docs/norme.en%20.pdf).
