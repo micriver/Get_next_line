@@ -41,4 +41,4 @@ You can then return lines from an input file with:
 ./test_gnl ./filetests/<input_file>
 ```
 
-![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/docs/get_next_line.en.pdf)
+![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/assets/test_gnl_run_command.png)
