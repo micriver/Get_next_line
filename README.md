@@ -39,7 +39,7 @@ sh filetests/compile.sh
 You can then return lines from an input file with:
 
 ```bash
-./test_gnl ./filetests/<input_file>
+./test_gnl filetests/<input_file>
 ```
 
 ![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/assets/test_gnl_run_command.png)
