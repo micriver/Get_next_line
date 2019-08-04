@@ -16,6 +16,11 @@
 *main.c
 main*.c
 
+#dot files
+*._*
+._*
+.*
+
 #Misc files
 Makefile
 *.swp
