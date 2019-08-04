@@ -6,7 +6,7 @@
 
 # Get_next_line
 
-For this project, I was tasked with writing a function that would allow me to read a line ending with a newline character from a file descriptor. 
+For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n``` character from a file descriptor. 
 
 I practiced working with dynamic memory allocation, commands such as ```malloc```, ```open```, ```read```, and ```close```. I continued working with pointers and I learned new C syntax.
 
@@ -42,3 +42,4 @@ Then read the next line (or all the lines) from your input file with:
 ./<output_name> <input_file>
 ```
 
+### Still have to add compile.sh usage!!
