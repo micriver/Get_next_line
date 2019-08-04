@@ -1,4 +1,4 @@
-<p align="center">
+<p> align="center">
   <div align="center">
    <img src="assets/gnl_graph_2.png" width="500px"</img><br>
     <em><i>Whatever dies, really does not die...</i><em>
