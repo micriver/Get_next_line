@@ -17,6 +17,7 @@
 main*.c
 
 #Misc files
+Makefile
 *.swp
 *.txt
 *.sh
