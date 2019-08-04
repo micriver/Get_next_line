@@ -6,9 +6,9 @@
 
 # Get_next_line
 
-For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n``` character from a file descriptor without knowing its size beforehand.. 
+For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n'``` character from a file descriptor without knowing its size beforehand.. 
 
-I practiced working with dynamic memory allocation, commands such as ```malloc```, ```open```, ```read```, and ```close```. I continued working with pointers and I learned new C syntax.
+I practiced working with dynamic memory allocation - both on the heap and the stack as well with commands such as ```malloc```, ```open```, ```read```, and ```close```.
 
 After completion, I was able to add this function to my [Libft](https://github.com/micriver/Libft.git) for use in future projects.
 
@@ -30,16 +30,15 @@ cd get_next_line
 
 ## Usage
 
-After cloning the repository, you can compile the ```get_next_line.c``` function with one of the mains provide in the directory called ```/filetests```, like so:
+After cloning the repository, you can compile the ```get_next_line.c``` function with one of the ```main.c``` files from ```/filetests```, with the command:
 
 ```bash
-gcc -I get_next_line.h get_next_line.c \ 
-libft.a <main-file-from-/filetests> -o <output_name>
+sh filetests/compile.sh
 ```
-Then read the next line (or all the lines) from your input file with:
+You can then return lines from an input file with:
 
 ```bash
-./<output_name> <input_file>
+./test_gnl ./filetests/<input_file>
 ```
 
-### Still have to add compile.sh usage!!
+![Poem.txt output](https://github.com/micriver/get_next_line/blob/master/docs/get_next_line.en.pdf)
