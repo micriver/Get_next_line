@@ -9,7 +9,7 @@
 
 For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n'``` character from a file descriptor without knowing its size beforehand. 
 
-I practiced working with dynamic memory allocation - both on the heap and the stack as well as with the commands ```malloc```, ```open```, ```read```, and ```close```.
+I practiced working with dynamic memory allocation - both on the heap and the stack as well as with the commands ```malloc```, ```open```, ```read```, and ```close```. I was also introduced to static variables.
 
 After completion, I was able to add this function to my [Libft](https://github.com/micriver/Libft.git) for use in future C projects.
 
