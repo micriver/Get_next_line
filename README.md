@@ -5,7 +5,7 @@
   </div>
 </p>
 
-# Get next line
+# Get_next_line
 
 For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n'``` character from a file descriptor without knowing its size beforehand. 
 
