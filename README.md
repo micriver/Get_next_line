@@ -1,12 +1,12 @@
 <p align="center">
   <div align="center">
-   <img src="assets/gnl_graph.png" width="425px"</img><br>
+   <img src="assets/gnl_graph.png" width="500px"</img><br>
   </div>
 </p>
 
 # Get_next_line
 
-For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n``` character from a file descriptor. 
+For this project, I was tasked with writing a function that would allow me to read a line ending with a ```'\n``` character from a file descriptor without knowing its size beforehand.. 
 
 I practiced working with dynamic memory allocation, commands such as ```malloc```, ```open```, ```read```, and ```close```. I continued working with pointers and I learned new C syntax.
 
