@@ -1,7 +1,6 @@
 <p align="center">
   <div align="center">
    <img src="assets/gnl_graph.png" width="425px"</img><br>
-    <em><i>Your first libary...</i></em>
   </div>
 </p>
 
